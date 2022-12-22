@@ -1,0 +1,14 @@
+.title{
+    text-decoration: underline;
+    margin: 20px;
+    }
+
+.page{
+    font-size: 30px;
+}
+
+.container{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
